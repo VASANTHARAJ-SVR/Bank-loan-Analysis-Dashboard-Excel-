@@ -114,7 +114,8 @@ View KPIs and charts updating dynamically
 
 📸 Dashboard Preview
 
-(Insert Excel dashboard screenshots here)
+<img width="1134" height="611" alt="image" src="https://github.com/user-attachments/assets/56ed0c97-80d9-4e3b-8a53-55cd728aed2d" />
+<img width="1143" height="629" alt="image" src="https://github.com/user-attachments/assets/bf443863-59b8-41c2-96c6-5395ea721b72" />
 
 🚀 Future Enhancements
 
